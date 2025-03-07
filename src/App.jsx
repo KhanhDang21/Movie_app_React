@@ -1,5 +1,5 @@
 import MovieCard from "./components/MovieCard";
-import Search from "./components/search";
+import Search from "./components/Search";
 
 import { useEffect, useState } from "react";
 
